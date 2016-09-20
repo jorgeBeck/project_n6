@@ -1,0 +1,49 @@
+{
+  "name": "angular-szn-autocomplete",
+  "version": "1.0.2",
+  "description": "An AngularJS directive to display suggestions while typing into text input.",
+  "main": "src/angular-szn-autocomplete.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jirikuchta/angular-szn-autocomplete.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "autocomplete",
+    "suggest",
+    "typeahead",
+    "directive"
+  ],
+  "author": {
+    "name": "Jiri Kuchta"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jirikuchta/angular-szn-autocomplete/issues"
+  },
+  "gitHead": "f92ce267810a7fa9554be5eca6278edb54a32341",
+  "_id": "angular-szn-autocomplete@1.0.2",
+  "_shasum": "8ef566fa8b774655b388d28114c866d76d1c70f0",
+  "_from": "angular-szn-autocomplete@*",
+  "_npmVersion": "1.4.21",
+  "_npmUser": {
+    "name": "jirikuchta",
+    "email": "jiri.kuchta@live.com"
+  },
+  "maintainers": [
+    {
+      "name": "jirikuchta",
+      "email": "jiri.kuchta@live.com"
+    }
+  ],
+  "dist": {
+    "shasum": "8ef566fa8b774655b388d28114c866d76d1c70f0",
+    "tarball": "http://registry.npmjs.org/angular-szn-autocomplete/-/angular-szn-autocomplete-1.0.2.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/angular-szn-autocomplete/-/angular-szn-autocomplete-1.0.2.tgz"
+}
